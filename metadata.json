@@ -1,0 +1,6 @@
+{
+  "name": "기업교육용 협업 그림판",
+  "description": "학습자들이 실시간으로 함께 그림을 그리며 소통할 수 있는 기업교육 전용 협업 보드입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
